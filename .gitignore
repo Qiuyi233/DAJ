@@ -1,0 +1,5 @@
+mysite/db.sqlite3
+mysite/mysite/__pycache__/__init__.cpython-39.pyc
+mysite/mysite/__pycache__/settings.cpython-39.pyc
+mysite/mysite/__pycache__/urls.cpython-39.pyc
+mysite/mysite/__pycache__/wsgi.cpython-39.pyc
