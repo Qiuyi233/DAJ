@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'news',
     'polls.apps.PollsConfig',
+    'StuHom'
 ]
 
 MIDDLEWARE = [
